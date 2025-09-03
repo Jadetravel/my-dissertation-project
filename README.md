@@ -28,7 +28,7 @@ This project demonstrates advanced spatial data science techniques applied to ur
 
 ## Method overview
 
-![method_overview](reports/figures/model.png)
+![method_overview](reports/figures/random_forest.PNG)
 
 This Figure illustrates the analytical pipeline designed to predict health outcomes and identify key determinants of health disparities. This workflow consists of three main steps: 
 
