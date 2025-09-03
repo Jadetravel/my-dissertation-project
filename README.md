@@ -28,7 +28,7 @@ This project demonstrates advanced spatial data science techniques applied to ur
 
 ## Method overview
 
-![method_overview](reports/figures/random_forest.PNG)
+![method_overview](reports/figures/model.png)
 
 This Figure illustrates the analytical pipeline designed to predict health outcomes and identify key determinants of health disparities. This workflow consists of three main steps: 
 
@@ -48,7 +48,7 @@ This Figure illustrates the analytical pipeline designed to predict health outco
 
 ### Model Performance
 
-![model_performance](reports/figures/model.png)
+![model_performance](reports/figures/random_forest.PNG)
 - **R² = 0.5677**: Explained 57% of health outcome variance
 - **Significant improvement** over single-factor models typically used in urban health research
 - Robust cross-validation performance demonstrating model reliability
